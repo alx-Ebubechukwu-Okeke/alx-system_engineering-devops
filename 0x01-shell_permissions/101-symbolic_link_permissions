@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty ~/alx-system_engineering-devops/0x01-shell_permissions/_hello:holberton .
+chown -h betty:holberton _hello
