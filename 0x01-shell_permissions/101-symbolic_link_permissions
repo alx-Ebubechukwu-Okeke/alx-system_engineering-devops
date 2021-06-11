@@ -1,3 +1,2 @@
 #!/bin/bash
-chown betty ~/alx-system_engineering-devops/0x01-shell_permissions/_hello
-chgrp holberton ~/alx-system_engineering-devops/0x01-shell_permissions/_hello
+chown betty ~/alx-system_engineering-devops/0x01-shell_permissions/_hello:holberton .
